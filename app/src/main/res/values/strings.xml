@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="lista_operadores">
+        <item>somar</item>
+        <item>subtrair</item>
+        <item>multiplicar</item>
+        <item>dividir</item>
+    </string-array>
+</resources>
