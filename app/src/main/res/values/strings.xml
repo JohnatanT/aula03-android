@@ -1,5 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="quantidade_de_pessoas">Quantidade de pessoas:</string>
+    <string name="ouvir">Ouvir</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="bot_o_para_ouvir_o_valor">Botão para ouvir o valor</string>
+    <string name="bot_o_para_compartilhar_valor">Botao para compartilhar valor</string>
+    <string name="valor_final">Valor final</string>
+    <string name="texto_quantidade_de_pessoas">Texto Quantidade de pessoas</string>
+    <string name="input_de_texto_para_digitar_o_valor">Input de texto para digitar o valor</string>
+    <string name="texto_valor">Texto Valor</string>
+    <string name="texto_vamos_rachar">Texto Vamos Rachar!</string>
     <string-array name="lista_operadores">
         <item>somar</item>
         <item>subtrair</item>

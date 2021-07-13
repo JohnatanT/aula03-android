@@ -121,10 +121,10 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
         Double quantidadePessoas = 0.00;
         Double valor = 0.00;
 
-        if (oper2.getText().toString() != "") {
+        if (oper2.getText().toString() != "" && oper2.getText().toString() != " ") {
             quantidadePessoas = Double.parseDouble(oper2.getText().toString());
         }
-        if (oper1.getText().toString() != "") {
+        if (oper1.getText().toString() != "" && oper1.getText().toString() != " ") {
             valor = Double.parseDouble(oper1.getText().toString());
         }
 

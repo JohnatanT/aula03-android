@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="quantidade_de_pessoas">Amount of people:</string>
+    <string name="ouvir">To hear</string>
+    <string name="compartilhar">Share</string>
+    <string name="bot_o_para_ouvir_o_valor">Button to hear the value</string>
+    <string name="bot_o_para_compartilhar_valor">Share value button</string>
+    <string name="valor_final">Final value</string>
+    <string name="texto_quantidade_de_pessoas">Text Number of people</string>
+    <string name="input_de_texto_para_digitar_o_valor">Text input to enter the value</string>
+    <string name="texto_valor">Text Value</string>
+    <string name="texto_vamos_rachar">Text Lets Crack!</string>
+    <string-array name="lista_operadores">
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Share</item>
+    </string-array>
+</resources>
